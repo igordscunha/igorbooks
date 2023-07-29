@@ -1,0 +1,31 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "email": "igor@hotmail.com",
+            "senha": "9966",
+            "nome": "Igor",
+            "endereco": "Rua Ceara",
+            "complemento": "666",
+            "cep": "87654321"
+        },
+        {
+            "id": 2,
+            "email": "jorgito@hotmail.com",
+            "senha": "doisdois",
+            "nome": "Jorgito",
+            "endereco": "Rua Jambrolhei",
+            "complemento": "123",
+            "cep": "987654321"
+        },
+        {
+            "id": 3,
+            "email": "rafael@hotmail.com",
+            "senha": "5432",
+            "nome": "Rafael",
+            "endereco": "Rua Lalalal",
+            "complemento": "123",
+            "cep": "9765"
+        }
+    ]
+}

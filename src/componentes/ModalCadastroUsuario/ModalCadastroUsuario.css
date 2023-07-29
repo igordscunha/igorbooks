@@ -1,0 +1,23 @@
+.corpoModalCadastro {
+    display: flex;
+    align-items: center;
+    padding-top: 32px;
+    max-height: 450px;
+}
+
+.corpoModalCadastro form {
+    width: 500px;
+    max-width: 100%;
+}
+
+.corpoModalCadastro footer {
+    margin-bottom: 65px;
+    text-align: center;
+}
+
+.input-cadastro {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

@@ -1,0 +1,57 @@
+.AreaLogada_título {
+    text-align: center;
+    background: linear-gradient(to right, #002F52, #326589);
+    height: 120px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AreaLogada {
+    width: 100%;
+    padding: 80px 120px;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.navegacao{
+    font: Poppins;
+    font-size: 16px;
+    line-height: 24px;
+    height: 194px;
+    width: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    margin-right: 55px;
+}
+
+.navegacao li {
+    border-bottom: 1px solid #0E3E61;
+    padding: 12px 36px;
+}
+
+.AreaLogada .navegacao li a{
+    text-decoration: none;
+    color: #002F52;
+    &:hover{
+        color: #326589;
+    }
+}
+
+.menu{
+    flex-grow: 2;
+}
+
+.conteudo{
+    flex-grow: 7;
+}
+
+.aviso{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 420px;
+}

@@ -1,0 +1,12 @@
+.conteudo-header{
+    display: block;
+    width: 100%;
+    padding: 0 35px;
+}
+
+.pedido {
+    display: flex;
+    justify-content: space-between;
+    padding: 35px;
+    border-bottom: 1px solid #002f52;
+}

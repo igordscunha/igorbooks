@@ -1,0 +1,9 @@
+
+.home form.buscar {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.home .input-leitura {
+    width: 100%;
+}

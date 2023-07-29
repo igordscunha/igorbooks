@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+}
+
+form label{
+    font-size: 25px;
+}
